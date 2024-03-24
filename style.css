@@ -10,7 +10,7 @@
     border-radius: 10px;
     padding: 10px;
     margin-bottom: 10px;
-    flex-basis: calc(14.28% - 10px); /* Adjust the width as needed */
+    flex-basis: calc(14.28% - 10px);
     box-sizing: border-box;
     text-align: center;
   }
